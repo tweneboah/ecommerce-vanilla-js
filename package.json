@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-vanilla-js",
+  "version": "1.0.0",
+  "description": "Build e-commerce app with only Javascript and HTML",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tweneboah/ecommerce-vanilla-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tweneboah/ecommerce-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/tweneboah/ecommerce-vanilla-js#readme",
+  "dependencies": {
+    "tailwindcss": "^1.6.2"
+  }
+}
