@@ -4,7 +4,7 @@
   "description": "Build e-commerce app with only Javascript and HTML",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o public/css/main.css"
   },
   "repository": {
     "type": "git",
